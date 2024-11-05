@@ -1,0 +1,57 @@
+{
+  "id": 8,
+  "documentId": "ry34vjrtgdk65feq52fmcte7",
+  "name": "Fruits",
+  "colour": null,
+  "createdAt": "2024-10-31T08:15:06.556Z",
+  "updatedAt": "2024-10-31T08:47:02.627Z",
+  "publishedAt": "2024-10-31T08:47:02.654Z",
+  "icon": [
+    {
+      "id": 3,
+      "documentId": "j0sfeoqmpt9hryotn02fkbqv",
+      "name": "fruits.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 512,
+      "height": 512,
+      "formats": {
+        "small": {
+          "ext": ".png",
+          "url": "/uploads/small_fruits_52487348b3.png",
+          "hash": "small_fruits_52487348b3",
+          "mime": "image/png",
+          "name": "small_fruits.png",
+          "path": null,
+          "size": 44.15,
+          "width": 500,
+          "height": 500,
+          "sizeInBytes": 44154
+        },
+        "thumbnail": {
+          "ext": ".png",
+          "url": "/uploads/thumbnail_fruits_52487348b3.png",
+          "hash": "thumbnail_fruits_52487348b3",
+          "mime": "image/png",
+          "name": "thumbnail_fruits.png",
+          "path": null,
+          "size": 12.3,
+          "width": 156,
+          "height": 156,
+          "sizeInBytes": 12303
+        }
+      },
+      "hash": "fruits_52487348b3",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 5.72,
+      "url": "/uploads/fruits_52487348b3.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2024-10-31T08:46:56.811Z",
+      "updatedAt": "2024-10-31T08:46:56.811Z",
+      "publishedAt": "2024-10-31T08:46:56.811Z"
+    }
+  ]
+}
